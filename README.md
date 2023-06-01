@@ -5,7 +5,7 @@
 
 
 - 👀 I’m interested in ... C# (Xamarin) and creating website using PHP and javascript.
-- 🌱 I’m currently learning ... Unity using C#, GoLang, Tailwind CSS, AlphineJS ...
+- 🌱 I’m currently learning... Unity using C#, GoLang, Tailwind CSS, AlphineJS ...
 - 💞️ I’m looking to collaborate on ... creating and exploring Xamarin using C#
 - 📫 How to reach me ... daryltejares@outlook.com
 
