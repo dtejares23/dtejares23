@@ -4,7 +4,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtejares23&layout=compact&count_private=true&theme=tokyonight" />
 
 
-- 👀 I’m interested in ... C# (Xamarin) and creating website using PHP and javascript.
+- 👀 I’m interested in ... C# (Xamarin) and creating website using NodeJS, TypeScript, ReactJS and PostgreSQL.
 - 🌱 I’m currently learning... Unity using C#, GoLang, Tailwind CSS, AlphineJS ...
 - 💞️ I’m looking to collaborate on ... creating and exploring Xamarin using C#
 - 📫 How to reach me ... info@daryltejares.com
