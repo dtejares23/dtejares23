@@ -6,7 +6,7 @@
 <br>
 
 <ul>
-  <li>👀 I’m interested in ... C# (Xamarin) and creating website using NodeJS, TypeScript, ReactJS and PostgreSQL.</li>
+  <li>👀 I’m interested in ... Creating website using AstroJS, TypeScript, ReactJS, NodeJS, and PostgreSQL.</li>
   <li>🌱 I’m currently learning... Unity using C#, GoLang, Tailwind CSS, AlphineJS ...</li>
   <li>💞️ I’m looking to collaborate on ... creating and exploring Xamarin using C#</li>
   <li>📫 How to reach me ... info@daryltejares.com</li>
