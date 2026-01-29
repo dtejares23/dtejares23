@@ -3,7 +3,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dtejares23&show_icons=true&count_private=true&theme=gruvbox" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtejares23&layout=compact&count_private=true&theme=tokyonight" />
 
-<br><br>
+<br>
 
 <ul>
   <li> My current projects are: Web Based Inventory, Cargo Booking, Accounting and Attendance systems.</li>
