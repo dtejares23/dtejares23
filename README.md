@@ -3,11 +3,11 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=dtejares23&show_icons=true&count_private=true&theme=gruvbox" />
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtejares23&layout=compact&count_private=true&theme=tokyonight" />
 
-<br>
+<br><br>
 
 <ul>
   <li> My current projects are: Web Based Inventory, Cargo Booking, Accounting and Attendance systems.</li>
-  <li> Database I use are: PostgreSQL, MS SQL, Oracle and MariaDB</li>
+  <li> Databases I use are: PostgreSQL, MS SQL, Oracle and MariaDB</li>
   <li>👀 I’m interested in ... Creating webapps using AstroJS, TypeScript, Angualar, ReactJS, NodeJS</li>
   <li>🌱 I’m currently learning... .NET MAUI using C#, AstroJS, GoLang, Tailwind CSS with VITE, AlphineJS, PostgreSQL ...</li>
   <li>💞️ I’m looking to collaborate on ... creating and exploring .NET MAUI using C#</li>
