@@ -6,8 +6,9 @@
 <br>
 
 <ul>
+  <li> My current projects are: Web Based Inventory, Cargo Booking, Accounting and Attendance systems.</li>
   <li>👀 I’m interested in ... Creating webapps using AstroJS, TypeScript, Angualar, ReactJS, NodeJS, and PostgreSQL.</li>
-  <li>🌱 I’m currently learning... .NET MAUI using C#, AstroJS, GoLang, Tailwind CSS, AlphineJS, PostgreSQL ...</li>
+  <li>🌱 I’m currently learning... .NET MAUI using C#, AstroJS, GoLang, Tailwind CSS with VITE, AlphineJS, PostgreSQL ...</li>
   <li>💞️ I’m looking to collaborate on ... creating and exploring .NET MAUI using C#</li>
   <li>📫 How to reach me ... <a href="mailto:info@daryltejares.com">info@daryltejares.com</a> </li>
 </ul>
